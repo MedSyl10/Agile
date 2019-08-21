@@ -10,7 +10,7 @@ package com.tpju.classes;
 public class Joueur
 {
     // instance variables - replace the example below with your own
-    private String nom;
+    private String nom; // nom du joueur
     private String prenom;
     private Manager manager;
     
